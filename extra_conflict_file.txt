@@ -1,2 +1,3 @@
 do a conflict, now!
 hurry!
+delete a conflict
